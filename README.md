@@ -5,16 +5,21 @@
 ### 1. 感測器外殼設計與安裝
 
 - 外殼由團隊自行設計與製作，根據實際場域環境及機械製造技能配置。
-- 安裝位置距離虎鉗約 3 公分，避免共振干擾。
+- 安裝位置距離虎鉗約 10 公分左右，避免授其餘共振干擾。
+- ![20250630_172647](https://github.com/user-attachments/assets/32025daf-d52d-446e-a358-69ae470c4fca)
 - 透過螺絲與 T 型螺栓固定於 T 型溝槽，確保穩固性。
+- ![20250630_172643](https://github.com/user-attachments/assets/c3e6a477-0113-4606-b772-0d0f94c9c357)
 - 採用上下兩片式結構，具有公母凸緣設計，利於定位與組裝。
+- ![image](https://github.com/user-attachments/assets/08044108-3262-4cda-93ae-b5ef7d35cba1)
 - 接縫處填充樹脂，增強防水功能。
+- ![image](https://github.com/user-attachments/assets/f1e88a12-3312-42a2-85fa-a1800d6763bd)
 - 尺寸預留電路板邊緣空間約 ±15 mm。
 
 ### 2. 感測電路板開發
 
 - 以 EasyEDA 軟體進行 PCB layout 與元件配置，並參考學長經驗進行開發。
 - 第一版：完成基本震動感測功能。
+- ![image](https://github.com/user-attachments/assets/6e97faa5-e5b1-48a1-ba3e-64933c43db94)
 - 第二版：新增藍牙模組以支援無線傳輸與線上監測。
 - 持續進行數據除錯與穩定性驗證。
 
